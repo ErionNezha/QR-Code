@@ -1,1 +1,2 @@
 # QR-Code
+Krijimi i një website për QR code është një hap drejt të ardhmes digjitale. Ky projekt do të jetë një urë lidhëse midis botës fizike dhe asaj virtuale, duke sjellë një përvojë të thjeshtë dhe të lehtë për përdoruesit. Website-i do të jetë një mrekulli teknologjike, ku secili QR code do të hapë dyer të reja drejt informacionit dhe shërbimeve të personalizuara. Me një dizajn modern dhe intuitiv, ky website do të jetë një shembull i elegancës dhe efikasitetit në botën e teknologjisë.
